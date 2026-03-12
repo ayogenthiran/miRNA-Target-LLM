@@ -1,0 +1,11 @@
+huggingface_hub
+tdc
+pandas
+numpy
+matplotlib
+unsloth
+transformers
+datasets
+trl
+torch
+peft
